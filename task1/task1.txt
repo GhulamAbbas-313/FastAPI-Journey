@@ -1,0 +1,5 @@
+💻 Coding Task 1: Data ValidationApne Product model mein Pydantic ke features use karke ye
+ rules lagayein:price hamesha 0 se zyada honi chahiye.
+name ki length kam se kam 3 characters honi chahiye.quantity kabhi bhi negative nahi honi chahiye.❓ 
+#Theoretical Question :
+1Agar main get_product route mein product_id ke aage :int na likhoon, toh kya problem aayegi jab main if product.id == product_id: check karunga?
